@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var flowerImageView: UIImageView!
     
     
-    var wordsToGuess = ["SWIFT", "DOG", "CAT"]
+    var wordsToGuess = ["STINK","ROMEO","SWIFT", "DOG", "CAT"]
     var currentWordIndex = 0
     var wordToGuess = ""
     var lettersGuessed = ""
